@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Loving Life Again",
+  "base_artist": "ella langley",
+  "createdAt": "2026-03-30T15:32:30.307461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loving Life Again",
+      "artist": "Ella Langley",
+      "has_synced": true,
+      "path": "select/01_Loving_Life_Again_Ella_Langley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loving Life Again",
+      "artist": "Ella Langley",
+      "has_synced": false,
+      "path": "select/pl_01_Loving_Life_Again_Ella_Langley.txt"
+    }
+  ]
+}
